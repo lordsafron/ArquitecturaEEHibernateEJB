@@ -1,0 +1,8 @@
+com\hm\persistencia\dao\MunicipioDAO.class
+com\hm\persistencia\dao\CiudadDAO.class
+com\hm\persistencia\dao\EstadoDAO.class
+com\hm\persistencia\commons\CRUDOperations.class
+com\hm\persistencia\commons\AbstractDAO.class
+com\hm\persistencia\dao\impl\MunicipioDAOImpl.class
+com\hm\persistencia\dao\impl\EstadoDAOImpl.class
+com\hm\persistencia\dao\impl\CiudadDAOImpl.class
